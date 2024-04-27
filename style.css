@@ -1,0 +1,60 @@
+  body{
+padding: 0%;
+margin: 0%;
+font-family: Arial, Helvetica, sans-serif;
+}
+header{
+background-color: aqua;
+padding: 10px 0px;
+
+
+}
+
+.fas {
+      font-family: "Font Awesome 5 Free";
+    }
+    .fa-arrow-left {
+      font-weight: 1200;
+      color: black;
+      font-size: 1.7em;
+    }
+
+.container {
+      width: 100%;
+      
+  border: 2px solid gray;
+    }
+   
+
+nav{
+background-color: chartreuse;
+padding: 15px;
+
+}
+nav a{
+color: rgb(29, 37, 28);
+margin: 10px;
+}
+nav a:hover{
+color: blue;
+
+}
+
+section{
+background-color: cadetblue;
+padding-top: 20px;
+
+}
+.img{
+    text-align: center;
+}
+footer{
+background-color: #030307d8;
+color: aliceblue;
+padding: 20px;
+}
+.image{
+background-color: grey;
+padding: 20px;
+}
+
